@@ -1,0 +1,1 @@
+body{width:100%;height:100%}h1{color:red;text-align:center}form{display:flex;flex-direction:column;justify-content:center;align-items:center;height:80vh}button{width:20%;position:inherit}label{position:inherit;font-weight:700;color:#080c08;background-color:#fff;font:bold;font-size:large;box-shadow:0 0 5px;border:4px solid rgb(255,255,255);border-radius:6px}
